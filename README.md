@@ -1,6 +1,6 @@
 # Desafio-API-GitHub
 
-SOBRE O QUE É ESSE PROJETO 
+SOBRE O QUE É ESSE PROJETO?
 
   Esse projeto constitue em usar a API do GitHub para procurar usuários e seus repositórios,
 além, de mostrar várias informações complemetares como: total de seguidores 👥, total de pessoas
@@ -18,7 +18,7 @@ perdia o acesso, pois caso você recarregue muitas vezes a página seu acesso é
 
 # Challenge-API-GitHub
 
-ABOUT WHAT THIS PROJECT IS ABOUT
+ABOUT WHAT THIS PROJECT IS ABOUT?
 
   This project consists of using the GitHub API to look up users and their repositories,
 in addition to showing various complete information such as: total followers 👥, total people
